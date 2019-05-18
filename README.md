@@ -1,5 +1,5 @@
-# High School Computer Science Course Work Archive
-Repo collection of all my high school Computer Science Assignments.
+# Computer Science Work Archive
+Repo collection of all my computer science work through high school and free time.
 
 
 

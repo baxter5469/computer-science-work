@@ -40,6 +40,23 @@ https://github.com/baxter5469/GamerIT
 ### Github.io Site
 https://github.com/baxter5469/baxter5469.github.io
 
+## Current Web Development 2019 - Present
+
+### troyault.com
+https://troyault.com/
+
+### Hilliard Business Academy Website
+https://ilcbusiness.weebly.com/
+
+### tgraggphotography.com
+https://github.com/baxter5469/tgraggphotography.com
+
+### baxtr.me-new
+https://github.com/baxter5469/baxtr.me-new
+
+### gamestism.com
+https://github.com/baxter5469/gamestism.com
+
 ## Python Mini Programs 2017 - 2018
 
 ### Steam Format Tool
@@ -53,3 +70,4 @@ https://github.com/baxter5469/bdg-launcher
 
 ### High School I/O 2018 Project
 https://github.com/baxter5469/The-Void
+

@@ -1,5 +1,22 @@
 # Computer Science Work Archive
 Repo collection of all my computer science work through high school and free time.
+## Current Web Development 2019 - Present
+
+### troyault.com
+https://troyault.com/
+
+### Hilliard Business Academy Website
+https://ilcbusiness.weebly.com/
+
+### tgraggphotography.com
+https://github.com/baxter5469/tgraggphotography.com
+
+### baxtr.me-new
+https://github.com/baxter5469/baxtr.me-new
+
+### gamestism.com
+https://github.com/baxter5469/gamestism.com
+
 ## Freshman Year 2017 - 2018
 
 ### Python Turtle Game
@@ -39,23 +56,6 @@ https://github.com/baxter5469/GamerIT
 
 ### Github.io Site
 https://github.com/baxter5469/baxter5469.github.io
-
-## Current Web Development 2019 - Present
-
-### troyault.com
-https://troyault.com/
-
-### Hilliard Business Academy Website
-https://ilcbusiness.weebly.com/
-
-### tgraggphotography.com
-https://github.com/baxter5469/tgraggphotography.com
-
-### baxtr.me-new
-https://github.com/baxter5469/baxtr.me-new
-
-### gamestism.com
-https://github.com/baxter5469/gamestism.com
 
 ## Python Mini Programs 2017 - 2018
 
